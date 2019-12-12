@@ -20,6 +20,9 @@ from online C51 and outperforms offline QR-DQN. Furthermore, REM performs
 comparably to QR-DQN in the online RL setting on Atari 2600 games. The DQN
 replay dataset can serve as an offline RL benchmark and will be released.
 
+<p class="cover" align="center">
+<img src="assets/images/draw_off.png" width="75%" />
+</p>
 
 ## Atari DQN-replay Dataset 
 
