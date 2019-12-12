@@ -1,0 +1,11 @@
+intro:
+title: Striving for Simplicity in Off-Policy Deep Reinforcement Learning
+description:
+- NeurIPS 2019 Deep RL Workshop (Contributed Talk)
+buttons:
+  Abstract: '#abstract'
+  Paper: 'https://arxiv.org/abs/1907.04543'
+  Code: 'https://github.com/google-research/batch_rl'
+  Atari-Replay Dataset: https://pantheon.corp.google.com/storage/browser/atari-replay-datasets
+  Poster: 'pdfs/neurips_drl_poster.pdf'
+  Authors: '#authors'
