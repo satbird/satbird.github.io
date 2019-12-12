@@ -21,13 +21,13 @@ comparably to QR-DQN in the online RL setting on Atari 2600 games. The DQN
 replay dataset can serve as an offline RL benchmark and will be released.
 
 
-## Atari-Replay Dataset (Logged DQN data) 
+## Atari DQN-replay Dataset 
 
-The atari-replay-dataset dataset was collected as follows:
+The Atari DQN-replay dataset dataset was collected as follows:
 We first train a [DQN][nature_dqn] agent, on all 60 [Atari 2600 games][ale]
 with [sticky actions][stochastic_ale] enabled for 200 million frames (standard protocol) and save all of the experience tuples
 of *(observation, action, reward, next observation)* (approximately 50 million)
-encountered during training. 
+encountered during training. We repeat this process five times for each game.
 
 This logged DQN data can be found in the public [GCP bucket][gcp_bucket]
 `gs://atari-replay-datasets` which can be downloaded using [`gsutil`][gsutil].
