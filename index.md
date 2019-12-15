@@ -18,7 +18,7 @@ enforces optimal Bellman consistency on random convex combinations of multiple
 Q-value estimates. Using the DQN replay dataset, offline REM surpasses the gains
 from online C51 and outperforms offline QR-DQN. Furthermore, REM performs
 comparably to QR-DQN in the online RL setting on Atari 2600 games. The DQN
-replay dataset can serve as an offline RL benchmark and will be released.
+replay dataset can serve as an offline RL benchmark and is open-sourced.
 
 <p class="cover" align="center">
 <img src="assets/images/draw_off.png" width="75%" />
