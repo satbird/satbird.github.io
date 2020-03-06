@@ -1,5 +1,5 @@
 
 ## [offline-rl.github.io](https://offline-rl.github.io)
 
-Github Page for the paper "Striving for Simplicity in Off-Policy Deep Reinforcement Learning".  
+Github Page for the paper "An Optimistic Perspective on Offline Reinforcement Learning".  
 
