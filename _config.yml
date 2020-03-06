@@ -1,7 +1,7 @@
 intro:
-title: Striving for Simplicity in Off-Policy Deep Reinforcement Learning
+title: An Optimistic Perspective on Offline Reinforcement Learning
 description:
-- NeurIPS 2019 Deep RL Workshop (Contributed Talk)
+- NeurIPS 2019 Deep RL Workshop (Contributed Talk). An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning". 
 buttons:
   Abstract: '#abstract'
   Paper: 'https://arxiv.org/abs/1907.04543'
