@@ -1,5 +1,5 @@
 ---
-title: 'Striving for Simplicity in Off-Policy Deep Reinforcement Learning'
+title: 'An Optimistic Perspective on Offline Reinforcement Learning'
 layout: default
 ---
 
@@ -7,18 +7,7 @@ layout: default
 
 ## Abstract
 
-This paper advocates the use of offline (batch) reinforcement learning (RL) to
-help (1) isolate the contributions of exploitation vs. exploration in off-policy
-deep RL, (2) improve reproducibility of deep RL research, and (3) facilitate the
-design of simpler deep RL algorithms. We demonstrate that recent off-policy
-deep RL algorithms, even when trained solely on all of the replay data of an
-online DQN agent, can outperform online DQN on Atari 2600 games. We also
-present Random Ensemble Mixture (REM), a simple Q-learning algorithm that
-enforces optimal Bellman consistency on random convex combinations of multiple
-Q-value estimates. Using the DQN replay dataset, offline REM surpasses the gains
-from online C51 and outperforms offline QR-DQN. Furthermore, REM performs
-comparably to QR-DQN in the online RL setting on Atari 2600 games. The DQN
-replay dataset can serve as an offline RL benchmark and is open-sourced.
+Off-policy reinforcement learning (RL) using a fixed offline dataset of logged interactions is an important consideration in real world applications. This paper studies offline RL using the DQN replay dataset comprising the entire replay experience of a DQN agent on 60 Atari 2600 games. We demonstrate that recent off-policy deep RL algorithms, even when trained solely on this replay dataset, outperform the fully trained DQN agent. To enhance generalization in the offline setting, we present Random Ensemble Mixture (REM), a robust Q-learning algorithm that enforces optimal Bellman consistency on random convex combinations of multiple Q-value estimates. Offline REM trained on the DQN replay dataset surpasses strong RL baselines. The results here present an optimistic view that robust RL algorithms trained on sufficiently large and diverse offline datasets can lead to high quality policies. The DQN replay dataset can serve as an offline RL benchmark and is open-sourced.
 
 <p class="cover" align="center">
 <img src="assets/images/draw_off.png" width="75%" />
