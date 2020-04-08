@@ -47,9 +47,7 @@ agent's previous action again, instead of the agent's new action.
 [ale]: https://github.com/mgbellemare/Arcade-Learning-Environment
 [gcp_bucket]: https://console.cloud.google.com/storage/browser/atari-replay-datasets
 
-<p class="cover" align="center">
-<img src="assets/images/draw_off.png" width="75%" />
-</p>
+<p class="cover" align="center"> <img src="assets/draw_off.png" width="85%" /> </p>
 
 ## Abstract
 
