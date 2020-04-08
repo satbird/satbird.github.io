@@ -5,17 +5,9 @@ layout: default
 
 <style>thead { display: none; }</style>
 
-## Abstract
+## DQN Replay Dataset 
 
-Off-policy reinforcement learning (RL) using a fixed offline dataset of logged interactions is an important consideration in real world applications. This paper studies offline RL using the DQN replay dataset comprising the entire replay experience of a DQN agent on 60 Atari 2600 games. We demonstrate that recent off-policy deep RL algorithms, even when trained solely on this replay dataset, outperform the fully trained DQN agent. To enhance generalization in the offline setting, we present Random Ensemble Mixture (REM), a robust Q-learning algorithm that enforces optimal Bellman consistency on random convex combinations of multiple Q-value estimates. Offline REM trained on the DQN replay dataset surpasses strong RL baselines. The results here present an optimistic view that robust RL algorithms trained on sufficiently large and diverse offline datasets can lead to high quality policies. The DQN replay dataset can serve as an offline RL benchmark and is open-sourced.
-
-<p class="cover" align="center">
-<img src="assets/images/draw_off.png" width="75%" />
-</p>
-
-## Atari DQN-replay Dataset 
-
-The Atari DQN-replay dataset dataset was collected as follows:
+The DQN Replay dataset dataset was collected as follows:
 We first train a [DQN][nature_dqn] agent, on all 60 [Atari 2600 games][ale]
 with [sticky actions][stochastic_ale] enabled for 200 million frames (standard protocol) and save all of the experience tuples
 of *(observation, action, reward, next observation)* (approximately 50 million)
@@ -54,6 +46,14 @@ agent's previous action again, instead of the agent's new action.
 [stochastic_ale]: https://arxiv.org/abs/1709.06009
 [ale]: https://github.com/mgbellemare/Arcade-Learning-Environment
 [gcp_bucket]: https://console.cloud.google.com/storage/browser/atari-replay-datasets
+
+## Abstract
+
+Off-policy reinforcement learning (RL) using a fixed offline dataset of logged interactions is an important consideration in real world applications. This paper studies offline RL using the DQN replay dataset comprising the entire replay experience of a DQN agent on 60 Atari 2600 games. We demonstrate that recent off-policy deep RL algorithms, even when trained solely on this replay dataset, outperform the fully trained DQN agent. To enhance generalization in the offline setting, we present Random Ensemble Mixture (REM), a robust Q-learning algorithm that enforces optimal Bellman consistency on random convex combinations of multiple Q-value estimates. Offline REM trained on the DQN replay dataset surpasses strong RL baselines. The results here present an optimistic view that robust RL algorithms trained on sufficiently large and diverse offline datasets can lead to high quality policies. The DQN replay dataset can serve as an offline RL benchmark and is open-sourced.
+
+<p class="cover" align="center">
+<img src="assets/images/draw_off.png" width="75%" />
+</p>
 
 
 ## Authors
