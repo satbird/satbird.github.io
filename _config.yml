@@ -3,10 +3,10 @@ title: An Optimistic Perspective on Offline Reinforcement Learning
 description:
 - NeurIPS 2019 Deep RL Workshop (Contributed Talk). An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning". 
 buttons:
+  DQN Replay dataset: https://pantheon.corp.google.com/storage/browser/atari-replay-datasets
   Abstract: '#abstract'
   Paper: 'https://arxiv.org/abs/1907.04543'
   Code: 'https://github.com/google-research/batch_rl'
-  Atari DQN-replay Dataset: https://pantheon.corp.google.com/storage/browser/atari-replay-datasets
   Slides: 'pdfs/slides.pdf'
   Poster: 'pdfs/neurips_drl_poster.pdf'
   Talk: 'https://slideslive.com/38922701/contributed-talk-striving-for-simplicity-in-offpolicy-deep-reinforcement-learning' 
