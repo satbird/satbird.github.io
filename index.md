@@ -5,6 +5,8 @@ layout: default
 
 <style>thead { display: none; }</style>
 
+<p class="cover" align="center"> <img src="assets/offline_online_rl.gif" width="90%" /> </p>
+
 ## DQN Replay Dataset 
 
 The DQN Replay dataset dataset was collected as follows:
