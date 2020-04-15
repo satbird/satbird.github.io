@@ -4,6 +4,7 @@ description:
 - NeurIPS 2019 Deep RL Workshop (Contributed Talk). An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning". 
 buttons:
   DQN Replay Dataset: https://console.cloud.google.com/storage/browser/atari-replay-datasets/dqn
+  Blog: https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html
   Paper: 'https://arxiv.org/abs/1907.04543'
   Code: 'https://github.com/google-research/batch_rl'
   Slides: 'pdfs/slides.pdf'
