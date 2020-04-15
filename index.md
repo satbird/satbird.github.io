@@ -9,7 +9,7 @@ layout: default
 
 ## DQN Replay Dataset 
 
-The DQN Replay dataset dataset was collected as follows:
+The DQN Replay Dataset was collected as follows:
 We first train a [DQN][nature_dqn] agent, on all 60 [Atari 2600 games][ale]
 with [sticky actions][stochastic_ale] enabled for 200 million frames (standard protocol) and save all of the experience tuples
 of *(observation, action, reward, next observation)* (approximately 50 million)
