@@ -1,7 +1,8 @@
 intro:
 title: An Optimistic Perspective on Offline Reinforcement Learning
 description:
-- ICML 2020. An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning" and presented as a contributed talk at NeurIPS 2019 Deep RL Workshop. 
+- International Conference on Machine Learning (ICML) 2020. 
+- An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning" and presented as a contributed talk at NeurIPS 2019 Deep RL Workshop. 
 buttons:
   DQN Replay Dataset: https://research.google/tools/datasets/dqn-replay/
   Blog: https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html
