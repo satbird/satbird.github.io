@@ -51,6 +51,21 @@ agent's previous action again, instead of the agent's new action.
 
 <p class="cover" align="center"> <img src="assets/draw_off.png" width="85%" /> </p>
 
+Citing
+------
+If you find this open source release useful, please reference in your paper:
+
+> Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020).
+> An Optimistic Perspective on Offline Reinforcement Learning
+> *International Conference on Machine Learning (ICML)*.
+
+    @article{agarwal2019optimistic,
+      title={An Optimistic Perspective on Offline Reinforcement Learning},
+      author={Agarwal, Rishabh and Schuurmans, Dale and Norouzi, Mohammad},
+      journal={International Conference on Machine Learning},
+      year={2020}
+    }
+
 ## Authors
 
 <div style="text-align: left;">
