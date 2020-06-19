@@ -5,7 +5,7 @@ layout: default
 
 <style>thead { display: none; }</style>
 
-<p class="cover" align="center"> <img src="assets/offline_online_rl.gif" width="90%" /> </p>
+<p class="cover" align="center"> <img src="assets/OFFLINE_RL.gif" width="90%" /> </p>
 
 ## DQN Replay Dataset 
 
