@@ -5,7 +5,7 @@ description:
 - An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning" and presented as a contributed talk at NeurIPS 2019 Deep RL Workshop. 
 buttons:
   RL Unplugged (Acme): https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged
-  DQN Replay (Dopamine): https://research.google/tools/datasets/dqn-replay/
+  DQN Replay Dataset: https://research.google/tools/datasets/dqn-replay/
   Blog: https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html
   Paper: 'https://arxiv.org/pdf/1907.04543.pdf'
   Code: 'https://github.com/google-research/batch_rl'  
