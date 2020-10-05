@@ -59,10 +59,10 @@ If you find this open source release useful, please reference in your paper:
 > An Optimistic Perspective on Offline Reinforcement Learning
 > *International Conference on Machine Learning (ICML)*.
 
-    @article{agarwal2019optimistic,
-      title={An Optimistic Perspective on Offline Reinforcement Learning},
+    @inproceedings{agarwal2020optimistic,
+      title={An optimistic perspective on offline reinforcement learning},
       author={Agarwal, Rishabh and Schuurmans, Dale and Norouzi, Mohammad},
-      journal={International Conference on Machine Learning},
+      booktitle={International Conference on Machine Learning},
       year={2020}
     }
 
