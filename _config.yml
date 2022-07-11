@@ -4,7 +4,8 @@ description:
 - International Conference on Machine Learning (ICML) 2020. 
 - An earlier version was titled "Striving for Simplicity in Off-Policy Deep Reinforcement Learning" and presented as a contributed talk at NeurIPS 2019 Deep RL Workshop. 
 buttons:
-  RL Unplugged (Acme): https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged
+  RL Unplugged (tfds): https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged
+  tfds (Colab): https://colab.sandbox.google.com/github/google-research/rlds/blob/main/rlds/examples/tfds_rlu_atari.ipynb
   DQN Replay Dataset: https://research.google/tools/datasets/dqn-replay/
   Blog: https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html
   Paper: 'https://arxiv.org/pdf/1907.04543.pdf'
