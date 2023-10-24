@@ -1,5 +1,5 @@
 
-## [offline-rl.github.io](https://offline-rl.github.io)
+## [satbird.github.io](https://satbird.github.io)
 
-Github Page for the paper "An Optimistic Perspective on Offline Reinforcement Learning".  
+Github Page for the paper "SatBird: a Dataset for Bird Species Distribution Modeling using Remote Sensing and Citizen Science Data".  
 
