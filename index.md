@@ -24,7 +24,7 @@ SatBird demonstrate the relevance of using both environmental and remote sensing
 
 ## Dataset download and code
 
-The SatBird dataset is available for [download](https://drive.google.com/drive/folders/1eaL2T7U9Imq_CTDSSillETSDJ1vxi5Wq?usp=sharing), and we release the [code](https://github.com/mila-iqia/SatBird/) for building the dataset in other regions of the world and for the benchmark. \\
+The SatBird dataset is available for [download](https://drive.google.com/drive/folders/1eaL2T7U9Imq_CTDSSillETSDJ1vxi5Wq?usp=sharing), and we release the [code](https://github.com/RolnickLab/SatBird/) for building the dataset in other regions of the world and for the benchmark. \\
 For more information about the dataset, please refer to the datasheet in the Supplementary Material of the paper. 
 
 
