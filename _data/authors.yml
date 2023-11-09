@@ -10,14 +10,14 @@
   image: assets/faces/benjamin.jpeg
   url: https://benjaminakera.com
   title: Mila, McGill University
-- name: Hager Radi
-  image: assets/faces/hager.jpg
-  url: https://hagerrady13.GitHub.io
-  title: Mila
 - name: Yoshua Bengio
   image: assets/faces/yoshua.jpeg
   url: https://yoshuabengio.org/
   title: Mila, Université de Montréal
+- name: Hager R. Abdelwahed
+  image: assets/faces/hager.jpg
+  url: https://hagerrady13.GitHub.io
+  title: Mila
 - name: Hugo Larochelle
   image: assets/faces/hugo.jpeg
   url: https://mila.quebec/en/person/hugo-larochelle/
