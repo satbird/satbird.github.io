@@ -5,7 +5,7 @@ description:
   - An earlier version of this work, "Bird Distribution Modelling using Remote Sensing and Citizen Science Data" was presented as a contributed talk at ICLR 2023 Tackling Climate Change with Machine Learning workshop.
 buttons:
   SatBird Dataset: https://drive.google.com/drive/folders/1eaL2T7U9Imq_CTDSSillETSDJ1vxi5Wq?usp=sharing
-  Paper: ""
+  Paper: "https://arxiv.org/pdf/2311.00936.pdf"
   Code: "https://github.com/RolnickLab/SatBird/"
   Talk: ""
   Slides: ""
