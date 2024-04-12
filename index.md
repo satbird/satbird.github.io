@@ -32,12 +32,16 @@ Citing
 ------
 If you find this open source release useful, please reference in your paper:
 
-> Teng, M., Elmustafa, A., Akera, B., Radi, H., Bengio, B., Larochelle, H., Rolnick, D.
+> Teng, M., Elmustafa, A., Akera, B., Bengio, B.,  Radi, H., Larochelle, H., Rolnick, D.
 > SatBird: a Dataset for Bird Species Distribution Modeling using Remote Sensing and Citizen Science Data
 > *Conference on Neural Information Processing Systems (NeurIPS) 2023, Datasets and Benchmarks track*.
 
-    @inproceedings{
-    }
+    @inproceedings{teng2023satbird,
+    title={SatBird: a Dataset for Bird Species Distribution Modeling using Remote Sensing and Citizen Science Data},
+    author={M{\'e}lisande Teng and Amna Elmustafa and Benjamin Akera and Yoshua Bengio and Hager Radi and Hugo Larochelle and David Rolnick},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2023},
+    url={https://openreview.net/forum?id=Vn5qZGxGj3}}
 
 ## Authors
 
